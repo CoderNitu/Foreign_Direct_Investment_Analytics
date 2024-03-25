@@ -6,10 +6,10 @@ Conduct a comprehensive year-wise analysis of India's FDI landscape to unveil se
 
 ## 1. Sᴇʀᴠɪᴄᴇ Sᴇᴄᴛᴏʀ Dᴏᴍɪɴᴀɴᴀᴄᴇ:
 
-### ---->Service sector (financial and non-financial) emerged as the largest 
-          recipient, constituting 17% of total FDI inflow.
----->Foreign investors are particularly interested in financial services due 
-     to profit-generating advantages and ease of repatriation.
+### ⦿ Service sector (financial and non-financial) emerged as the largest 
+recipient, constituting 17% of total FDI inflow.
+### ⦿ Foreign investors are particularly interested in financial services due 
+to profit-generating advantages and ease of repatriation.
 
 ## 2. Sᴇᴄᴛᴏʀᴀʟ Dɪꜱᴛʀɪʙᴜᴛɪᴏɴ:
 
