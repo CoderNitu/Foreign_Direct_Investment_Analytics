@@ -29,8 +29,11 @@ Conduct a comprehensive year-wise analysis of India's FDI landscape to unveil se
 ### ⦿ Through detailed analysis, the project aimed to mitigate investment risks and achieve equilibrium by identifying trends, peaks, and troughs in FDI inflows.
 ### ⦿ Analytics played a crucial role in understanding the dynamic nature of investment, enabling stakeholders to make informed decisions.
 
-𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+# 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 
 1. Python
 2. PowerBI
 3. Canva
+
+## 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗻𝗸: https://lnkd.in/dp7F7WBx
+## 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸: https://lnkd.in/d3jBj3M7
