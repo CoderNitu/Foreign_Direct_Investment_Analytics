@@ -2,6 +2,11 @@
 
 Conduct a comprehensive year-wise analysis of India's FDI landscape to unveil sector-wise trends, peaks, and troughs, identifying key metrics and factors to mitigate risk and achieve equilibrium investment.
 
+![PB Das 1](https://github.com/CoderNitu/Foreign_Direct_Investment_Analytics/assets/87817227/4b47aca5-cd0f-4c33-b53a-78f2e263c9c9)
+![PB Das 2](https://github.com/CoderNitu/Foreign_Direct_Investment_Analytics/assets/87817227/c15e5e6c-9a42-4399-9695-f7ac262e978e)
+![PB Das 3](https://github.com/CoderNitu/Foreign_Direct_Investment_Analytics/assets/87817227/e4735b87-2fb2-4256-8e90-10ea5b42ddd0)
+
+
 # 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
 ## 1. Sᴇʀᴠɪᴄᴇ Sᴇᴄᴛᴏʀ Dᴏᴍɪɴᴀɴᴀᴄᴇ:
