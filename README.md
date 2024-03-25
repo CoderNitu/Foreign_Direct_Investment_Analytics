@@ -11,26 +11,16 @@ Conduct a comprehensive year-wise analysis of India's FDI landscape to unveil se
 
 ## 2. Sᴇᴄᴛᴏʀᴀʟ Dɪꜱᴛʀɪʙᴜᴛɪᴏɴ:
 
----->Following the service sector, Computer Software and 
-     Hardware garnered significant FDI, representing 7% of total inflow.
----->Other notable sectors contributing to India's FDI landscape 
-     include Telecommunication, Construction Development, and 
-     the Automobile industry, each with substantial shares ranging from 
-     6% to 4%.
+### ⦿ Following the service sector, Computer Software and Hardware garnered significant FDI, representing 7% of total inflow.
+### ⦿ Other notable sectors contributing to India's FDI landscape include Telecommunication, Construction Development, and the Automobile industry, each with substantial shares ranging from 6% to 4%.
 
 ## 3. Lᴏᴡ Iɴᴛᴇʀᴇꜱᴛ Sᴇᴄᴛᴏʀꜱ:
 
----->Sectors such as Coir, Defence Industries, Mathematical Instruments, 
-     and Coal Production saw minimal interest, with shares equal to or 
-     less than 1%.
----->Approximately 28 to 30 sectors fall into this category, highlighting 
-     areas of lesser FDI attraction.
+### ⦿ Sectors such as Coir, Defence Industries, Mathematical Instruments, and Coal Production saw minimal interest, with shares equal to or less than 1%.
+### ⦿ Approximately 28 to 30 sectors fall into this category, highlighting areas of lesser FDI attraction.
 
 ## 4. Rɪꜱᴋ Mɪᴛɪɢᴀᴛɪᴏɴ & Eqᴜɪʟɪʙʀɪᴜᴍ:
 
---->Through detailed analysis, the project aimed to mitigate investment 
-    risks and achieve equilibrium by identifying trends, peaks, and 
-    troughs in FDI inflows.
---->Analytics played a crucial role in understanding the dynamic nature 
-    of investment, enabling stakeholders to make informed decisions.
+### ⦿ Through detailed analysis, the project aimed to mitigate investment risks and achieve equilibrium by identifying trends, peaks, and troughs in FDI inflows.
+### ⦿ Analytics played a crucial role in understanding the dynamic nature of investment, enabling stakeholders to make informed decisions.
 
