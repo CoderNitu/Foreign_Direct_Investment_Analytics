@@ -11,12 +11,12 @@ Conduct a comprehensive year-wise analysis of India's FDI landscape to unveil se
 
 ## 1. Sᴇʀᴠɪᴄᴇ Sᴇᴄᴛᴏʀ Dᴏᴍɪɴᴀɴᴀᴄᴇ:
 
-### ⦿ Service sector (financial and non-financial) emerged as the largest recipient, constituting 17% of total FDI inflow.
+### ⦿ The service sector (financial and non-financial) emerged as the largest recipient, constituting 17% of total FDI inflow.
 ### ⦿ Foreign investors are particularly interested in financial services due to profit-generating advantages and ease of repatriation.
 
 ## 2. Sᴇᴄᴛᴏʀᴀʟ Dɪꜱᴛʀɪʙᴜᴛɪᴏɴ:
 
-### ⦿ Following the service sector, Computer Software and Hardware garnered significant FDI, representing 7% of total inflow.
+### ⦿ Following the service sector, Computer Software and Hardware garnered significant FDI, representing 7% of the total inflow.
 ### ⦿ Other notable sectors contributing to India's FDI landscape include Telecommunication, Construction Development, and the Automobile industry, each with substantial shares ranging from 6% to 4%.
 
 ## 3. Lᴏᴡ Iɴᴛᴇʀᴇꜱᴛ Sᴇᴄᴛᴏʀꜱ:
